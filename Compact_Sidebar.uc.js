@@ -23,4 +23,4 @@
   } catch (e) {
     console.warn("[Compact Sidebar] Could not register widget in customization UI:", e);
   }
-})();1
+})();
