@@ -1,0 +1,21 @@
+{
+    "id": "compact-mode-zen-browser",
+    "name": "Compact Mode",
+    "description": "Adds a toggle button for compact sidebar functionality",
+    "homepage": "https://github.com/Darsh-A/Compact_Mode_Zen-Browser",
+    "js": true,
+    "readme": "https://raw.githubusercontent.com/Darsh-A/Compact_Mode_Zen-Browser/refs/heads/main/README.md",
+    "author": "Darsh A",
+    "version": "1.0.0",
+    "tags": [
+        "sine",
+        "Compact Mode",
+        "fx-autoconfig",
+        "JavaScript",
+        "Darsh A",
+        "Better"
+    ],
+    "createdAt": "2025-06-19",
+    "updatedAt": "2025-06-19",
+    "fork": ["zen"]
+}
