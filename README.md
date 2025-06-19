@@ -1,4 +1,4 @@
-# Compact_Mode_Zen-Browser
+# Compact Mode Zen Browser
 Adds a toggle to the topbar for Compact Mode.
 
 ## 📝 Installation:
